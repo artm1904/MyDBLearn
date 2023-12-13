@@ -8,7 +8,7 @@ public class MyDbApplication {
 
 	public static void main(String[] args) {
 		System.out.print("Hello!");
-		$ git config --global user.name "artm1904"
+		System.out.print("Hello!");
 
 		SpringApplication.run(MyDbApplication.class, args);
 	}
